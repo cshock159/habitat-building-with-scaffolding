@@ -1,0 +1,8 @@
+---
+BUNDLE_RETRY: "5"
+BUNDLE_DEPLOYMENT: "true"
+BUNDLE_PATH: "/hab/cache/src/meme-machine-0.1.0/vendor/bundle"
+BUNDLE_SHEBANG: "/hab/pkgs/core/ruby/3.0.2/20211019144421/bin/ruby"
+BUNDLE_JOBS: "4"
+BUNDLE_CLEAN: "false"
+BUNDLE_WITHOUT: "development:test"
